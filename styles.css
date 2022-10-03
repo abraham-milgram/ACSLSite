@@ -6,16 +6,19 @@
     background-color: rgba(128, 128, 128, 0.6); 
     overflow: auto;
 }   
+#nav-bar ul {
+    margin: 0;
+}
 #nav-bar li {
     display: inline;
+    display:inline-block;
 }
 #nav-bar img {
-    height: 10vh;
+    height: 75px;
 }
 #nav-bar a {
 
-    font: 3em "Helvetica Neue", Helvetica, Arial, sans-serif;
-    vertical-align: bottom;
+    font: 1.25em "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding-right: 10vw;
 }
 #nav-bar #page_title {
@@ -26,7 +29,11 @@
 .column {
     float: left;
     width: 25%;
-    font: 1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    height: 100%;
+    font-style: italic;
+    font-size: 2vh;
+    padding-top: 10px;
+    padding-bottom: 0px;
   }
   
   /* Clear floats after the columns */
@@ -35,4 +42,11 @@
     display: table;
     clear: both;
   }
-  
+.column ul {
+    font-size: 1em;
+    font-style: normal;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin: 0%;
+}
