@@ -54,11 +54,10 @@ round_().then((data) => {
 
 
     // emmbed the youtube playlist link as an iframe
-    // TODO: THIS IS NOT WORKING
     const Videos = document.getElementById("Videos");
     const videos_link = document.createElement("iframe");
     videos_link.src = round_data.Playlist;
-    videos_link.width = "100%";
+    videos_link.width = "50%";
     videos_link.height = "500px";
     videos_link.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
     Videos.appendChild(videos_link);
