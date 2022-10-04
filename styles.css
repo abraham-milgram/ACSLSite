@@ -50,3 +50,7 @@
     text-decoration: none;
     margin: 0%;
 }
+/*make the iframes inline*/
+iframe {
+    display: inline;
+}

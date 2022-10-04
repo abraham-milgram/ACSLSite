@@ -1,1 +1,98 @@
- 
+[
+    {
+      "round": "Assembly-Language",
+      "pset_solutions": "https://docs.google.com/document/d/1r37cQSuhfb-k6Wr3O0ckDJytOLzZMrjU/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "pset": "https://docs.google.com/document/d/1H3CNsEV77d1Sylozv4NLbrxF4eJyF8zQ/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "ACSL site": "http://www.categories.acsl.org/wiki/index.php?title=Assembly_Language_Programming",
+      "Resources": [{"link": "https://docs.google.com/spreadsheets/d/1sOygOhVoaI4_TXnJ63AVySHxUynyEFWQ_kNOdUaEmKM/copy#gid=0", "description": "An ACSL assembly compiler built by Abraham Milgram in google sheets"}],
+      "Playlist": ""
+    },
+    {
+      "round": "Bit-String-Flicking",
+      "pset_solutions": "https://drive.google.com/file/d/14eO6Wm1yiUp9Bre5UKulA1VQhBKVrHGM/view?usp=sharing",
+      "pset": "https://drive.google.com/file/d/1Xl202kED7753-Vde04Tw8mCA-2m3sYyA/view?usp=sharing",
+      "ACSL site": "http://www.categories.acsl.org/wiki/index.php?title=Bit-String_Flicking",
+      "Resources": [],
+      "Playlist": "https://www.youtube.com/watch?v=NkhKqxx6Xro&list=PLiuhVNz7jBiWlT0OvVT6Elje1dLF8b1Vt"
+    },
+    {
+      "round": "Boolean-Algebra",
+      "pset_solutions": "https://docs.google.com/document/d/1Cd6r1-aBBxcJRCyEiQZHUKgCL87xNRaX/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "pset": "https://docs.google.com/document/d/1XcQdVtfYL5BAYbP0AJUvJFSnWYH0xrhS/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "ACSL site": "http://www.categories.acsl.org/wiki/index.php?title=Boolean_Algebra",
+      "Resources": [{"link": "https://www.boolean-algebra.com/", "description":  "Boolean Algebra Solver"}],
+      "Playlist": "https://www.youtube.com/watch?v=NxjE9dVRhLw&list=PLiuhVNz7jBiUX7MZPEIpmP-SGzDE3L8cV"
+    },
+    {
+      "round": "Computer-Numbering-Systems",
+      "pset_solutions": "https://docs.google.com/document/d/1hUnPVWvj28vBy0HZLNoYDYFtg23UlYlC/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "pset": "https://docs.google.com/document/d/1yXO0CSJlhI3zJpjhW-QmZQbqjuUvEJTj/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "ACSL site": "http://www.categories.acsl.org/wiki/index.php?title=Computer_Number_Systems",
+      "Resources": [{"link": "https://www.rapidtables.com/convert/number/base-converter.html", "description":"Converter beetween bases" }, {"link": "https://www.123calculus.com/en/operations-other-bases-page-1-11-185.html", "description":  "Calculator for arithmatic between bases"}],
+      "Playlist": ""
+    },
+    {
+      "round": "Data-Structures",
+      "pset_solutions": "https://docs.google.com/document/d/1s7i4jlyajyuRjlMJ1tCO7CaYAIO9z4q2/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "pset": "https://docs.google.com/document/d/1QaQaKpcG2GcexUHElw1HKVhcJ1gh8iak/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "ACSL site": "http://www.categories.acsl.org/wiki/index.php?title=Data_Structures",
+      "Resources": [],
+      "Playlist": "https://www.youtube.com/watch?v=6HE4GDPMzwI&list=PLiuhVNz7jBiWuRTHPH5cOAbKNMjIZ4hwv"
+    },
+    {
+      "round": "Digital-Electronics",
+      "pset_solutions": "https://docs.google.com/document/d/10WTARXCigLQYAyYYI8D_JmEqEmdDhZ4U/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "pset": "https://docs.google.com/document/d/1WBQj9eMXjewgC4SZkcjGfVSfx_ZWVTjV/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "ACSL site": "http://www.categories.acsl.org/wiki/index.php?title=Digital_Electronics",
+      "Resources": [],
+      "Playlist": "https://www.youtube.com/watch?v=3tXBH3tenCU&list=PLiuhVNz7jBiX-J0iQqFtNiAhIn0kpgG7s"
+    },
+    {
+      "round": "FSAs-and-Regular-Expressions",
+      "pset_solutions": "https://docs.google.com/document/d/1gkKFaWAn7rZAbGch5Y7gtAMz0hQtrYO_/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "pset": "https://docs.google.com/document/d/11YX-XsaU1eSBCzihsk8Hton0LkLDJY59/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "ACSL site": "http://www.categories.acsl.org/wiki/index.php?title=FSAs_and_Regular_Expressions",
+      "Resources": [{"link": "https://regex101.com/", "description":"Live online regex tester" }],
+      "Playlist": ""
+    },
+    {
+      "round": "Graph-Theory",
+      "pset_solutions": "https://docs.google.com/document/d/1wPhB97jMknvgDMzFsHAVKPTVizo0TeAf/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "pset": "https://docs.google.com/document/d/15xyH8T5-LQsBxTk4fHh2O0PHwB-Qxe9H/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "ACSL site": "http://www.categories.acsl.org/wiki/index.php?title=Graph_Theory",
+      "Resources": [],
+      "Playlist": "https://www.youtube.com/watch?v=-vCH1Y3lvcc&list=PLiuhVNz7jBiWMs4VeyBRJUUdEFmUebi3O"
+    },
+    {
+      "round": "Lisp",
+      "pset_solutions": "https://docs.google.com/document/d/1BXkmd2V7zQ4WZhv6liPBDiilXQXW3Z70/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "pset": "https://docs.google.com/document/d/1Sdz_5HVxxsrWPcEbsXsF2aujYFyTxYdX/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "ACSL site": "http://www.categories.acsl.org/wiki/index.php?title=LISP",
+      "Resources": [{"link": "https://www.jdoodle.com/execute-clisp-online/", "description": "Online LISP editor and compiler"}],
+      "Playlist": "https://www.youtube.com/watch?v=gHx8UA2xmIE&list=PLiuhVNz7jBiXe9bdyflUOn51L0HsALviV"
+    },
+    {
+      "round": "Prefix-Infix-and-Postfix-Notation",
+      "pset_solutions": "https://docs.google.com/document/d/1XzVG4rQSVudv7_HMVIvaidoijM83XQFc/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "pset": "https://docs.google.com/document/d/1UCqQHkvUz0VFHlN6kqG9lmYsgx4iw-2h/edit?usp=sharing&ouid=101074228511570765689&rtpof=true&sd=true",
+      "ACSL site": "http://www.categories.acsl.org/wiki/index.php?title=Prefix/Infix/Postfix_Notation",
+      "Resources": [{"link": "https://www.web4college.com/converters/infix-to-postfix-prefix.php", "description": "Tool to convert between infix/prefix/postfix notation"}],
+      "Playlist": "https://www.youtube.com/watch?v=xX76vpsVPKE&list=PLiuhVNz7jBiUaruDZtXy8NQlDt8FthArZ"
+    },
+    {
+      "round": "Recursive-Functions",
+      "pset_solutions": "Missing",
+      "pset": "Missing",
+      "ACSL site": "http://www.categories.acsl.org/wiki/index.php?title=Recursive_Functions",
+      "Resources": [],
+      "Playlist": ""
+    },
+    {
+      "round": "What-Does-This-Program-Do",
+      "pset_solutions": "Missing",
+      "pset": "Missing",
+      "ACSL site": "http://www.categories.acsl.org/wiki/index.php?title=What_Does_This_Program_Do%3F",
+      "Resources": [],
+      "Playlist": ""
+    }
+  ]
