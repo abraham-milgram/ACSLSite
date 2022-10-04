@@ -22,7 +22,7 @@ round_().then((data) => {
     // add the ACSL wiki link to the resources
     const ACSL = document.getElementById("ACSL");
     const ACSL_link = document.createElement("a");
-    ACSL_link.href = "https://www.acsl.org/";
+    ACSL_link.href = round_data["ACSL site"]
     ACSL_link.innerHTML = "ACSL-wiki entry";
     ACSL.appendChild(ACSL_link);
     // add all other resources
