@@ -1,0 +1,28 @@
+.column {
+    float: left;
+    width: 25%;
+    height: 100%;
+    font-style: italic;
+    font-size: 2vh;
+    padding-top: 10px;
+    padding-bottom: 0px;
+  }
+  
+  /* Clear floats after the columns */
+  .competitions:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+.column ul {
+    font-size: 1em;
+    font-style: normal;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin: 0%;
+}
+/*make the iframes inline*/
+iframe {
+    display: inline;
+}

@@ -1,0 +1,28 @@
+#nav-bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(128, 128, 128, 0.6); 
+    overflow: hidden;
+}   
+
+#nav-bar li {
+    float: right;
+}
+#nav-bar img {
+    height: 75px;
+    border: 10px solid rgba(0, 0, 0, 0.276);
+}
+#nav-bar a, img {
+    display: block;
+    text-align: center;
+    font: 1.25em "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#nav-bar a {
+    color: white;
+    text-decoration: none;
+    margin: 14px 16px;
+}
+.active {
+    border-bottom: 3px solid #f1f1f1;
+}
